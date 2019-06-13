@@ -1,0 +1,29 @@
+
+= Tests for asciidoc
+Arthur The Author
+
+== Starting
+The first paragraph is always
+difficult to write because you don't yet have
+any flow. Starting from nothing is harder than following up.
+
+== Bullet points
+* first
+* second
+** 2.1
+** 2.2
+** 2.3
+* third
+
+== Unicode
+Star: ☆
+
+== Links
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Quick Ref]
+
+=== Not a link
+\https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+
