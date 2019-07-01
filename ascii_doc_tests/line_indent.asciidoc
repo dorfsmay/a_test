@@ -1,0 +1,7 @@
+This is a small piece of code
+
+ for e in collection:
+     e.eject()
+
+The end.
+
